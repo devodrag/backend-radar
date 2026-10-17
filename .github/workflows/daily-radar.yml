@@ -1,0 +1,49 @@
+name: Backend Daily Tech Radar
+
+on:
+  schedule:
+    # Запуск 2 раза в день: 06:00 UTC и 18:00 UTC
+    - cron: "0 6,18 * * *"
+  workflow_dispatch:
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run Backend Radar Collector
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 main.py
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "devodrag"
+          git config --global user.email "devodrag@users.noreply.github.com"
+
+          TODAY=$(date +'%Y-%m-%d')
+          
+          # Если есть изменения в архиве, коммитим архив
+          if [[ -n $(git status --porcelain archive/) ]]; then
+            git add archive/
+            git commit -m "feat(archive): record daily backend telemetry for ${TODAY}"
+          fi
+
+          # Если есть изменения в README, коммитим README
+          if [[ -n $(git status --porcelain README.md) ]]; then
+            git add README.md
+            git commit -m "docs(radar): refresh trending intelligence & feed [${TODAY}]"
+          fi
+
+          git push origin main || git push origin master
