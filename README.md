@@ -9,54 +9,54 @@
 ### <code>( 01 ) // TRENDING REPOSITORIES</code>
 
 #### **GO**
-- **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** (`★ 2489`)
+- **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** (`★ 1247`)
   _Git designed for AI agents._
 
-- **[caveman-ai/trim-1](https://github.com/caveman-ai/trim-1)** (`★ 173`)
+- **[caveman-ai/trim-1](https://github.com/caveman-ai/trim-1)** (`★ 174`)
   _trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs_
 
-- **[Binaryify/MonitorBar](https://github.com/Binaryify/MonitorBar)** (`★ 153`)
+- **[Binaryify/MonitorBar](https://github.com/Binaryify/MonitorBar)** (`★ 154`)
   _macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量_
 
 #### **C++**
-- **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** (`★ 1645`)
+- **[Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc)** (`★ 1709`)
   _Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo_
 
-- **[MyLuxy/overdrive](https://github.com/MyLuxy/overdrive)** (`★ 944`)
+- **[MyLuxy/overdrive](https://github.com/MyLuxy/overdrive)** (`★ 978`)
   _Overdrive, a PS5 homebrew game store with 1,800+ games._
 
-- **[OverkillLabs3/driveclub-recomp](https://github.com/OverkillLabs3/driveclub-recomp)** (`★ 400`)
+- **[OverkillLabs3/driveclub-recomp](https://github.com/OverkillLabs3/driveclub-recomp)** (`★ 443`)
   _DriveClub (PS4, version 1.28) running natively on Windows_
 
 #### **PYTHON**
-- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37811`)
+- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37814`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
 - **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7423`)
   _Robyn is a Super Fast Async Python Web Framework with a Rust runtime._
 
-- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 1944`)
+- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 2199`)
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** (`★ 2019`)
+- **[ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)** (`★ 2048`)
   _A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine._
 
-- **[VantaCode420/SmartHdrManager](https://github.com/VantaCode420/SmartHdrManager)** (`★ 198`)
+- **[VantaCode420/SmartHdrManager](https://github.com/VantaCode420/SmartHdrManager)** (`★ 205`)
   _Automatic Windows HDR switching for games, YouTube HDR and RTX Video HDR_
 
-- **[evren-oct/vigil-watt](https://github.com/evren-oct/vigil-watt)** (`★ 87`)
+- **[evren-oct/vigil-watt](https://github.com/evren-oct/vigil-watt)** (`★ 89`)
   _Windows 无线外设电量监控 —— 蓝牙耳机、2.4G 键鼠手柄。桌面小组件、任务栏 显示 Unified battery level indicators for 2.4GHz mice, headsets and Bluetooth devices in the Windows tray_
 
 ---
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer) &nbsp; `▲ 276 pts` &nbsp; `💬 92`
-- [UK Defence Startups Are Being Denied Banking Services Under ESG Rules](https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules) &nbsp; `▲ 56 pts` &nbsp; `💬 37`
-- [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) &nbsp; `▲ 285 pts` &nbsp; `💬 91`
-- [OpenBSD 8.0](https://www.openbsd.org/80.html) &nbsp; `▲ 317 pts` &nbsp; `💬 100`
-- [AfD Leak: What 421,179 Hacked Emails Show about the German Far Right](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/) &nbsp; `▲ 207 pts` &nbsp; `💬 154`
+- [SimCity, but with Permits](https://permit.petercai.com/) &nbsp; `▲ 303 pts` &nbsp; `💬 149`
+- [Voxtral 3](https://mistral.ai/news/voxtral-3/) &nbsp; `▲ 418 pts` &nbsp; `💬 113`
+- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) &nbsp; `▲ 2016 pts` &nbsp; `💬 787`
+- [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu) &nbsp; `▲ 195 pts` &nbsp; `💬 47`
+- [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md) &nbsp; `▲ 87 pts` &nbsp; `💬 30`
 
 ---
 
