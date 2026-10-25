@@ -9,54 +9,54 @@
 ### <code>( 01 ) // TRENDING REPOSITORIES</code>
 
 #### **GO**
-- **[Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha)** (`★ 239`)
+- **[Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha)** (`★ 240`)
   _Private Keys_
 
 - **[0c-biggo/0c-ime](https://github.com/0c-biggo/0c-ime)** (`★ 143`)
   _免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。_
 
-- **[xue-y-su/clove-api-1.0.6](https://github.com/xue-y-su/clove-api-1.0.6)** (`★ 101`)
-  _Clove API 1.0.6 source code_
+- **[tractordev/webframe](https://github.com/tractordev/webframe)** (`★ 118`)
+  _Run a web page like a program_
 
 #### **C++**
+- **[mirkobrombin/raven](https://github.com/mirkobrombin/raven)** (`★ 372`)
+  _A Windows your apps recognize._
+
 - **[Animal2404/xeno-executor](https://github.com/Animal2404/xeno-executor)** (`★ 345`)
   _Published: 2026-10-19_
 
-- **[mirkobrombin/raven](https://github.com/mirkobrombin/raven)** (`★ 302`)
-  _A Windows your apps recognize._
-
-- **[ryderclanky/BotW-Native](https://github.com/ryderclanky/BotW-Native)** (`★ 157`)
+- **[ryderclanky/BotW-Native](https://github.com/ryderclanky/BotW-Native)** (`★ 190`)
   _Breath of the Wild (Wii U, v1.5.0) statically recompiled to a native Windows program with a Vulkan renderer. _
 
 #### **PYTHON**
-- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37865`)
+- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37873`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
 - **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7426`)
   _Robyn is a Super Fast Async Python Web Framework with a Rust runtime._
 
-- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 3671`)
+- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 3738`)
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[EgorBo/BlazingFastDotnet](https://github.com/EgorBo/BlazingFastDotnet)** (`★ 213`)
+- **[EgorBo/BlazingFastDotnet](https://github.com/EgorBo/BlazingFastDotnet)** (`★ 232`)
   _Tips & tricks to tune .NET workloads for better perf (mostly, targeting benchmarks)._
 
 - **[krllmrzv/Sweetch](https://github.com/krllmrzv/Sweetch)** (`★ 119`)
   _Файловый конвертер для Windows: круговое меню, русский и английский интерфейс, две темы и Pandoc в комплекте._
 
-- **[Jelly10086/PCL-Re.Download_PATCH](https://github.com/Jelly10086/PCL-Re.Download_PATCH)** (`★ 88`)
-  _哦对了，下载限制飞八分钱_
+- **[PZW152/one-click-eu-lord](https://github.com/PZW152/one-click-eu-lord)** (`★ 88`)
+  _一鍵轉生歐爺 · 一键转生欧爷 · One-Click EU Lord — give Windows 11 every gain from Ireland's EU/EEA (DMA) policy without the features the EU build removes, and keep it across updates. One 166 KB exe, no runtime, fully reversible. 繁中 / 简中 / English._
 
 ---
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order) &nbsp; `▲ 146 pts` &nbsp; `💬 73`
-- [We should be more ambitious with the software we build](https://danluu.com/ambitious/) &nbsp; `▲ 445 pts` &nbsp; `💬 390`
-- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) &nbsp; `▲ 179 pts` &nbsp; `💬 60`
-- [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made) &nbsp; `▲ 47 pts` &nbsp; `💬 16`
-- [The Goose Programming Language](https://aardappel.github.io/goose/) &nbsp; `▲ 414 pts` &nbsp; `💬 251`
+- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) &nbsp; `▲ 157 pts` &nbsp; `💬 26`
+- [Eunice is almost here (William Gibson, Agency)](https://armincat.com/articles/eunice-is-almost-here) &nbsp; `▲ 12 pts` &nbsp; `💬 5`
+- [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) &nbsp; `▲ 252 pts` &nbsp; `💬 122`
+- [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/) &nbsp; `▲ 242 pts` &nbsp; `💬 116`
+- [JetBrains Thinkrail](https://github.com/JetBrains/thinkrail) &nbsp; `▲ 76 pts` &nbsp; `💬 25`
 
 ---
 
