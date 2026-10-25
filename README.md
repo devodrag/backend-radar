@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) BACKEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>RADAR // 2026-10-24</b></h1>
+  <h1><b>RADAR // 2026-10-25</b></h1>
   <p>Curated telemetry on distributed systems, high-concurrency tooling, and top engineering news.</p>
 </div>
 
@@ -9,54 +9,54 @@
 ### <code>( 01 ) // TRENDING REPOSITORIES</code>
 
 #### **GO**
-- **[Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha)** (`★ 237`)
+- **[Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha)** (`★ 239`)
   _Private Keys_
 
-- **[Samsara-1999/Bursar](https://github.com/Samsara-1999/Bursar)** (`★ 201`)
-  _Accounts and quotas for a shared GPU cluster._
+- **[0c-biggo/0c-ime](https://github.com/0c-biggo/0c-ime)** (`★ 143`)
+  _免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。_
 
-- **[armanlife/firefox-vpn-client](https://github.com/armanlife/firefox-vpn-client)** (`★ 152`)
-  _Free VPN for Android, Windows, macOS, and Linux through Mozilla's servers over HTTP/2 and HTTP/3, with Firefox Accounts, multi-account rotation, and smart routing_
+- **[xue-y-su/clove-api-1.0.6](https://github.com/xue-y-su/clove-api-1.0.6)** (`★ 101`)
+  _Clove API 1.0.6 source code_
 
 #### **C++**
 - **[Animal2404/xeno-executor](https://github.com/Animal2404/xeno-executor)** (`★ 345`)
   _Published: 2026-10-19_
 
-- **[DustinYe/gesture-media-controller](https://github.com/DustinYe/gesture-media-controller)** (`★ 204`)
-  _Infrared gesture-based BLE media controller for AtomS3R and PAJ7620U2; C++ firmware, trajectory replay, and documented v24 baseline._
+- **[mirkobrombin/raven](https://github.com/mirkobrombin/raven)** (`★ 302`)
+  _A Windows your apps recognize._
 
-- **[RanggaCasper/Black-Android](https://github.com/RanggaCasper/Black-Android)** (`★ 184`)
-  _An unofficial native Android port of the original Xbox version of Black, with touch controls, gyroscope aiming, controller support and extended graphics options._
+- **[ryderclanky/BotW-Native](https://github.com/ryderclanky/BotW-Native)** (`★ 157`)
+  _Breath of the Wild (Wii U, v1.5.0) statically recompiled to a native Windows program with a Vulkan renderer. _
 
 #### **PYTHON**
-- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37854`)
+- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37865`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
-- **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7427`)
+- **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7426`)
   _Robyn is a Super Fast Async Python Web Framework with a Rust runtime._
 
-- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 3601`)
+- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 3671`)
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[EgorBo/BlazingFastDotnet](https://github.com/EgorBo/BlazingFastDotnet)** (`★ 188`)
+- **[EgorBo/BlazingFastDotnet](https://github.com/EgorBo/BlazingFastDotnet)** (`★ 213`)
   _Tips & tricks to tune .NET workloads for better perf (mostly, targeting benchmarks)._
 
-- **[krllmrzv/Sweetch](https://github.com/krllmrzv/Sweetch)** (`★ 118`)
+- **[krllmrzv/Sweetch](https://github.com/krllmrzv/Sweetch)** (`★ 119`)
   _Файловый конвертер для Windows: круговое меню, русский и английский интерфейс, две темы и Pandoc в комплекте._
 
-- **[Jelly10086/PCL-Re.Download_PATCH](https://github.com/Jelly10086/PCL-Re.Download_PATCH)** (`★ 87`)
+- **[Jelly10086/PCL-Re.Download_PATCH](https://github.com/Jelly10086/PCL-Re.Download_PATCH)** (`★ 88`)
   _哦对了，下载限制飞八分钱_
 
 ---
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector) &nbsp; `▲ 39 pts` &nbsp; `💬 18`
-- [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move) &nbsp; `▲ 189 pts` &nbsp; `💬 127`
-- [The Goose Programming Language](https://aardappel.github.io/goose/) &nbsp; `▲ 25 pts` &nbsp; `💬 8`
-- [Dream-1](https://dreamlabs.ai/research/dream-1/) &nbsp; `▲ 84 pts` &nbsp; `💬 46`
-- [John Carmack on the Goose Language: multiple data stacks and relative references](https://twitter.com/ID_AA_Carmack/status/2113704269274636568) &nbsp; `▲ 48 pts` &nbsp; `💬 11`
+- [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order) &nbsp; `▲ 146 pts` &nbsp; `💬 73`
+- [We should be more ambitious with the software we build](https://danluu.com/ambitious/) &nbsp; `▲ 445 pts` &nbsp; `💬 390`
+- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras) &nbsp; `▲ 179 pts` &nbsp; `💬 60`
+- [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made) &nbsp; `▲ 47 pts` &nbsp; `💬 16`
+- [The Goose Programming Language](https://aardappel.github.io/goose/) &nbsp; `▲ 414 pts` &nbsp; `💬 251`
 
 ---
 
