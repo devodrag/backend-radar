@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) BACKEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>RADAR // 2026-10-25</b></h1>
+  <h1><b>RADAR // 2026-10-26</b></h1>
   <p>Curated telemetry on distributed systems, high-concurrency tooling, and top engineering news.</p>
 </div>
 
@@ -9,54 +9,54 @@
 ### <code>( 01 ) // TRENDING REPOSITORIES</code>
 
 #### **GO**
-- **[Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha)** (`★ 240`)
+- **[DrWhax/unfairplay](https://github.com/DrWhax/unfairplay)** (`★ 314`)
+  _Decrypt IPA's on MacOS_
+
+- **[Fluepke/emudrahahahahaha](https://github.com/Fluepke/emudrahahahahaha)** (`★ 241`)
   _Private Keys_
 
-- **[0c-biggo/0c-ime](https://github.com/0c-biggo/0c-ime)** (`★ 143`)
-  _免選字的注音輸入法：在本機用 Transformer 看前文選字。支援 Linux（Fcitx5／IBus）、macOS、Windows。_
-
-- **[tractordev/webframe](https://github.com/tractordev/webframe)** (`★ 118`)
+- **[tractordev/webframe](https://github.com/tractordev/webframe)** (`★ 128`)
   _Run a web page like a program_
 
 #### **C++**
-- **[mirkobrombin/raven](https://github.com/mirkobrombin/raven)** (`★ 372`)
+- **[mirkobrombin/raven](https://github.com/mirkobrombin/raven)** (`★ 414`)
   _A Windows your apps recognize._
 
-- **[Animal2404/xeno-executor](https://github.com/Animal2404/xeno-executor)** (`★ 345`)
-  _Published: 2026-10-19_
+- **[x86rc/unthemidator](https://github.com/x86rc/unthemidator)** (`★ 265`)
+  _An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool_
 
-- **[ryderclanky/BotW-Native](https://github.com/ryderclanky/BotW-Native)** (`★ 190`)
+- **[ryderclanky/BotW-Native](https://github.com/ryderclanky/BotW-Native)** (`★ 228`)
   _Breath of the Wild (Wii U, v1.5.0) statically recompiled to a native Windows program with a Vulkan renderer. _
 
 #### **PYTHON**
-- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37873`)
+- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37878`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
 - **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7426`)
   _Robyn is a Super Fast Async Python Web Framework with a Rust runtime._
 
-- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 3738`)
+- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 3838`)
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[EgorBo/BlazingFastDotnet](https://github.com/EgorBo/BlazingFastDotnet)** (`★ 232`)
+- **[EgorBo/BlazingFastDotnet](https://github.com/EgorBo/BlazingFastDotnet)** (`★ 252`)
   _Tips & tricks to tune .NET workloads for better perf (mostly, targeting benchmarks)._
 
-- **[krllmrzv/Sweetch](https://github.com/krllmrzv/Sweetch)** (`★ 119`)
-  _Файловый конвертер для Windows: круговое меню, русский и английский интерфейс, две темы и Pandoc в комплекте._
+- **[AIDotNet/TKCode.Arc](https://github.com/AIDotNet/TKCode.Arc)** (`★ 96`)
+  _Arc-style (uiarc.dev) component library for Avalonia, built on AtomUI_
 
-- **[PZW152/one-click-eu-lord](https://github.com/PZW152/one-click-eu-lord)** (`★ 88`)
-  _一鍵轉生歐爺 · 一键转生欧爷 · One-Click EU Lord — give Windows 11 every gain from Ireland's EU/EEA (DMA) policy without the features the EU build removes, and keep it across updates. One 166 KB exe, no runtime, fully reversible. 繁中 / 简中 / English._
+- **[oscarlosu-lab/USBAnywhere](https://github.com/oscarlosu-lab/USBAnywhere)** (`★ 94`)
+  _🌐 The Free, Open-Source VirtualHere Alternative for Windows & Linux — Connect unlimited USB devices over LAN, Wi-Fi & Internet (Low-Latency WSK, 1-Click Pi Setup, WHQL Drivers)_
 
 ---
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) &nbsp; `▲ 157 pts` &nbsp; `💬 26`
-- [Eunice is almost here (William Gibson, Agency)](https://armincat.com/articles/eunice-is-almost-here) &nbsp; `▲ 12 pts` &nbsp; `💬 5`
-- [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) &nbsp; `▲ 252 pts` &nbsp; `💬 122`
-- [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/) &nbsp; `▲ 242 pts` &nbsp; `💬 116`
-- [JetBrains Thinkrail](https://github.com/JetBrains/thinkrail) &nbsp; `▲ 76 pts` &nbsp; `💬 25`
+- [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/) &nbsp; `▲ 205 pts` &nbsp; `💬 81`
+- [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/) &nbsp; `▲ 14 pts` &nbsp; `💬 5`
+- [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline) &nbsp; `▲ 108 pts` &nbsp; `💬 38`
+- [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) &nbsp; `▲ 273 pts` &nbsp; `💬 46`
+- [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry) &nbsp; `▲ 153 pts` &nbsp; `💬 75`
 
 ---
 
