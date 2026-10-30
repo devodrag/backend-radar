@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) BACKEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>RADAR // 2026-10-29</b></h1>
+  <h1><b>RADAR // 2026-10-30</b></h1>
   <p>Curated telemetry on distributed systems, high-concurrency tooling, and top engineering news.</p>
 </div>
 
@@ -9,54 +9,54 @@
 ### <code>( 01 ) // TRENDING REPOSITORIES</code>
 
 #### **GO**
-- **[DrWhax/unfairplay](https://github.com/DrWhax/unfairplay)** (`★ 766`)
+- **[paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)** (`★ 814`)
+  _1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang_
+
+- **[DrWhax/unfairplay](https://github.com/DrWhax/unfairplay)** (`★ 794`)
   _Decrypt IPA's on MacOS_
 
-- **[egoist/mygo-cloudmusic](https://github.com/egoist/mygo-cloudmusic)** (`★ 350`)
+- **[egoist/mygo-cloudmusic](https://github.com/egoist/mygo-cloudmusic)** (`★ 404`)
   _MyGo 云音乐 - 第三方网易云音乐原生客户端_
 
-- **[tractordev/webframe](https://github.com/tractordev/webframe)** (`★ 211`)
-  _Run a web page like a program_
-
 #### **C++**
-- **[mirkobrombin/raven](https://github.com/mirkobrombin/raven)** (`★ 545`)
+- **[mirkobrombin/raven](https://github.com/mirkobrombin/raven)** (`★ 554`)
   _A Windows your apps recognize._
 
-- **[NotRexed/SkyboundTotk](https://github.com/NotRexed/SkyboundTotk)** (`★ 392`)
+- **[NotRexed/SkyboundTotk](https://github.com/NotRexed/SkyboundTotk)** (`★ 408`)
   _No description provided._
 
-- **[x86rc/unthemidator](https://github.com/x86rc/unthemidator)** (`★ 363`)
-  _An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool_
+- **[Shagg88/COGBox](https://github.com/Shagg88/COGBox)** (`★ 226`)
+  _This is an open source, all-in-one, static recompilation project that I built from the ground up for the Xbox 360 Gears of War series._
 
 #### **PYTHON**
-- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37916`)
+- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37921`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
-- **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7428`)
+- **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7429`)
   _Robyn is a Super Fast Async Python Web Framework with a Rust runtime._
 
-- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 4501`)
+- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 4580`)
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[EgorBo/BlazingFastDotnet](https://github.com/EgorBo/BlazingFastDotnet)** (`★ 287`)
-  _Tips & tricks to tune .NET workloads for better perf (mostly, targeting benchmarks)._
-
-- **[lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop)** (`★ 175`)
+- **[lachydotmcg/capri-desktop](https://github.com/lachydotmcg/capri-desktop)** (`★ 187`)
   _A quiet, unofficial Capri companion for your Windows desktop._
 
-- **[oscarlosu-lab/USBAnywhere](https://github.com/oscarlosu-lab/USBAnywhere)** (`★ 112`)
+- **[oscarlosu-lab/USBAnywhere](https://github.com/oscarlosu-lab/USBAnywhere)** (`★ 115`)
   _🌐 The Free, Open-Source VirtualHere Alternative for Windows & Linux — Connect unlimited USB devices over LAN, Wi-Fi & Internet (Low-Latency WSK, 1-Click Pi Setup, WHQL Drivers)_
+
+- **[mstlvc/Radiance](https://github.com/mstlvc/Radiance)** (`★ 104`)
+  _Lightweight, bloat-free Windows display utility for NVIDIA digital vibrance, DDC/CI hardware monitor control, Direct3D 11 color vision overlays, and custom crosshairs._
 
 ---
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) &nbsp; `▲ 202 pts` &nbsp; `💬 101`
-- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) &nbsp; `▲ 1065 pts` &nbsp; `💬 310`
-- [Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang](https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/) &nbsp; `▲ 231 pts` &nbsp; `💬 153`
-- [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html) &nbsp; `▲ 32 pts` &nbsp; `💬 13`
-- [Patrick Stewart has died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html) &nbsp; `▲ 1757 pts` &nbsp; `💬 343`
+- [elect.horse](https://elect.horse/) &nbsp; `▲ 96 pts` &nbsp; `💬 26`
+- [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563) &nbsp; `▲ 143 pts` &nbsp; `💬 21`
+- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8) &nbsp; `▲ 1483 pts` &nbsp; `💬 957`
+- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/) &nbsp; `▲ 1539 pts` &nbsp; `💬 404`
+- [How Do You Take a Picture of a Black Hole?](https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/) &nbsp; `▲ 24 pts` &nbsp; `💬 16`
 
 ---
 
