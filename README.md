@@ -9,54 +9,54 @@
 ### <code>( 01 ) // TRENDING REPOSITORIES</code>
 
 #### **GO**
-- **[Balanov/uncut](https://github.com/Balanov/uncut)** (`★ 604`)
+- **[Balanov/uncut](https://github.com/Balanov/uncut)** (`★ 608`)
   _The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts._
 
-- **[Balanov/shim](https://github.com/Balanov/shim)** (`★ 458`)
+- **[Balanov/shim](https://github.com/Balanov/shim)** (`★ 462`)
   _Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT._
 
-- **[protonversestudio/wow-forever-builds-kindred](https://github.com/protonversestudio/wow-forever-builds-kindred)** (`★ 292`)
+- **[protonversestudio/wow-forever-builds-kindred](https://github.com/protonversestudio/wow-forever-builds-kindred)** (`★ 286`)
   _Answer four questions and see which WoW Forever class fits how you play. Free Windows app._
 
 #### **C++**
-- **[zortos293/Lichii](https://github.com/zortos293/Lichii)** (`★ 1483`)
+- **[zortos293/Lichii](https://github.com/zortos293/Lichii)** (`★ 2176`)
   _VERY experimental Nintendo Switch 2 emulator_
 
-- **[gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp)** (`★ 490`)
+- **[gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp)** (`★ 495`)
   _A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++_
 
-- **[drakolordx7/switch2-recomp](https://github.com/drakolordx7/switch2-recomp)** (`★ 414`)
-  _Nintendo Switch 2 games recompiled to run natively on PC. Pokémon Pokopia is playable now._
+- **[drakolordx7/switch2-recomp](https://github.com/drakolordx7/switch2-recomp)** (`★ 440`)
+  _Nintendo Switch 2 games recompiled to run natively on PC._
 
 #### **PYTHON**
-- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37975`)
+- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37979`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
 - **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7430`)
   _Robyn is a Super Fast Async Python Web Framework with a Rust runtime._
 
-- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 4985`)
+- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 4984`)
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[lvt1693/music-bar](https://github.com/lvt1693/music-bar)** (`★ 84`)
+- **[lvt1693/music-bar](https://github.com/lvt1693/music-bar)** (`★ 88`)
   _Turns the Windows taskbar into a music bar: a full-width seekbar in 14 styles that dances to the music, karaoke lyrics, Windows 11 transparency and a control center._
 
-- **[sdparklab/Voltide](https://github.com/sdparklab/Voltide)** (`★ 82`)
+- **[sdparklab/Voltide](https://github.com/sdparklab/Voltide)** (`★ 84`)
   _Battery monitor for 2.4 GHz wireless peripherals_
 
-- **[LBEILC/Pane](https://github.com/LBEILC/Pane)** (`★ 79`)
+- **[LBEILC/Pane](https://github.com/LBEILC/Pane)** (`★ 80`)
   _Windows 11 上的启动器、鼠标手势和剪贴板工具，磨砂玻璃风格_
 
 ---
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [Sshole](https://sshhole.com) &nbsp; `▲ 439 pts` &nbsp; `💬 101`
-- [Baidu released ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/) &nbsp; `▲ 104 pts` &nbsp; `💬 57`
-- [OpenSSH 10.6p2 Critical workaround for alpine without PAM](https://www.openssh.org/releasenotes.html#10.6p2) &nbsp; `▲ 42 pts` &nbsp; `💬 3`
-- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) &nbsp; `▲ 1168 pts` &nbsp; `💬 377`
-- [Lemmings CSS Animation](https://markblah.github.io/lemmings/) &nbsp; `▲ 271 pts` &nbsp; `💬 53`
+- [Kagi Search for Everyone](https://kagi.com/changelog) &nbsp; `▲ 348 pts` &nbsp; `💬 181`
+- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844) &nbsp; `▲ 207 pts` &nbsp; `💬 52`
+- [sshole](https://sshhole.com) &nbsp; `▲ 2192 pts` &nbsp; `💬 555`
+- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757) &nbsp; `▲ 137 pts` &nbsp; `💬 30`
+- [Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/) &nbsp; `▲ 540 pts` &nbsp; `💬 106`
 
 ---
 
