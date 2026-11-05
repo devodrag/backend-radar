@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) BACKEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>RADAR // 2026-11-04</b></h1>
+  <h1><b>RADAR // 2026-11-05</b></h1>
   <p>Curated telemetry on distributed systems, high-concurrency tooling, and top engineering news.</p>
 </div>
 
@@ -9,54 +9,54 @@
 ### <code>( 01 ) // TRENDING REPOSITORIES</code>
 
 #### **GO**
-- **[Balanov/uncut](https://github.com/Balanov/uncut)** (`★ 600`)
+- **[Balanov/uncut](https://github.com/Balanov/uncut)** (`★ 604`)
   _The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts._
 
-- **[Balanov/shim](https://github.com/Balanov/shim)** (`★ 451`)
+- **[Balanov/shim](https://github.com/Balanov/shim)** (`★ 458`)
   _Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT._
 
-- **[protonversestudio/wow-forever-builds-kindred](https://github.com/protonversestudio/wow-forever-builds-kindred)** (`★ 283`)
+- **[protonversestudio/wow-forever-builds-kindred](https://github.com/protonversestudio/wow-forever-builds-kindred)** (`★ 292`)
   _Answer four questions and see which WoW Forever class fits how you play. Free Windows app._
 
 #### **C++**
-- **[Djihads80/Eglantine](https://github.com/Djihads80/Eglantine)** (`★ 3621`)
+- **[zortos293/Lichii](https://github.com/zortos293/Lichii)** (`★ 1483`)
   _VERY experimental Nintendo Switch 2 emulator_
 
-- **[zortos293/Lichii](https://github.com/zortos293/Lichii)** (`★ 746`)
-  _VERY experimental Nintendo Switch 2 emulator_
-
-- **[gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp)** (`★ 483`)
+- **[gothamor/gta-vcs-recomp](https://github.com/gothamor/gta-vcs-recomp)** (`★ 490`)
   _A native Windows and Linux port of Grand Theft Auto: Vice City Stories (PS2, USA, SLUS-21590), made by recompiling the game's PS2 executable into C++_
 
+- **[drakolordx7/switch2-recomp](https://github.com/drakolordx7/switch2-recomp)** (`★ 414`)
+  _Nintendo Switch 2 games recompiled to run natively on PC. Pokémon Pokopia is playable now._
+
 #### **PYTHON**
-- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37970`)
+- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 37975`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
-- **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7431`)
+- **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7430`)
   _Robyn is a Super Fast Async Python Web Framework with a Rust runtime._
 
-- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 4990`)
+- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 4985`)
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[brenpoly/CardboardXR](https://github.com/brenpoly/CardboardXR)** (`★ 203`)
-  _Google Cardboard with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity_
+- **[lvt1693/music-bar](https://github.com/lvt1693/music-bar)** (`★ 84`)
+  _Turns the Windows taskbar into a music bar: a full-width seekbar in 14 styles that dances to the music, karaoke lyrics, Windows 11 transparency and a control center._
 
-- **[sdparklab/Voltide](https://github.com/sdparklab/Voltide)** (`★ 76`)
+- **[sdparklab/Voltide](https://github.com/sdparklab/Voltide)** (`★ 82`)
   _Battery monitor for 2.4 GHz wireless peripherals_
 
-- **[LBEILC/Pane](https://github.com/LBEILC/Pane)** (`★ 72`)
+- **[LBEILC/Pane](https://github.com/LBEILC/Pane)** (`★ 79`)
   _Windows 11 上的启动器、鼠标手势和剪贴板工具，磨砂玻璃风格_
 
 ---
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) &nbsp; `▲ 430 pts` &nbsp; `💬 125`
-- [Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/) &nbsp; `▲ 129 pts` &nbsp; `💬 70`
-- [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple) &nbsp; `▲ 181 pts` &nbsp; `💬 61`
-- [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) &nbsp; `▲ 997 pts` &nbsp; `💬 603`
-- [Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements](https://icode4.coffee/?p=1746) &nbsp; `▲ 22 pts` &nbsp; `💬 2`
+- [Sshole](https://sshhole.com) &nbsp; `▲ 439 pts` &nbsp; `💬 101`
+- [Baidu released ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/) &nbsp; `▲ 104 pts` &nbsp; `💬 57`
+- [OpenSSH 10.6p2 Critical workaround for alpine without PAM](https://www.openssh.org/releasenotes.html#10.6p2) &nbsp; `▲ 42 pts` &nbsp; `💬 3`
+- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) &nbsp; `▲ 1168 pts` &nbsp; `💬 377`
+- [Lemmings CSS Animation](https://markblah.github.io/lemmings/) &nbsp; `▲ 271 pts` &nbsp; `💬 53`
 
 ---
 
