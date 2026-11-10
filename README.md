@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) BACKEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>RADAR // 2026-11-09</b></h1>
+  <h1><b>RADAR // 2026-11-10</b></h1>
   <p>Curated telemetry on distributed systems, high-concurrency tooling, and top engineering news.</p>
 </div>
 
@@ -9,27 +9,27 @@
 ### <code>( 01 ) // TRENDING REPOSITORIES</code>
 
 #### **GO**
-- **[DIYgod/pinky](https://github.com/DIYgod/pinky)** (`★ 1341`)
+- **[DIYgod/pinky](https://github.com/DIYgod/pinky)** (`★ 1433`)
   _Let AI agents use your phone, with you in the loop._
 
-- **[egoist/mygo-music](https://github.com/egoist/mygo-music)** (`★ 1086`)
+- **[egoist/mygo-music](https://github.com/egoist/mygo-music)** (`★ 1105`)
   _A native music player you extend with plugins_
 
-- **[devvmhq/devvm](https://github.com/devvmhq/devvm)** (`★ 440`)
+- **[devvmhq/devvm](https://github.com/devvmhq/devvm)** (`★ 485`)
   _One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding_
 
 #### **C++**
-- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** (`★ 4119`)
+- **[NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)** (`★ 5053`)
   _A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake_
 
-- **[Darhkfox/SuperMarioAllStars](https://github.com/Darhkfox/SuperMarioAllStars)** (`★ 295`)
-  _Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, level select and music player. Requires your own USA ROM._
-
-- **[Goldoire/fefw-recomp](https://github.com/Goldoire/fefw-recomp)** (`★ 291`)
+- **[Goldoire/fefw-recomp](https://github.com/Goldoire/fefw-recomp)** (`★ 358`)
   _Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included._
 
+- **[Darhkfox/SuperMarioAllStars](https://github.com/Darhkfox/SuperMarioAllStars)** (`★ 321`)
+  _Windows PC & Android port of Super Mario All-Stars (SNES) with true widescreen up to 21:9, simultaneous two-player co-op, 82 achievements, CRT filters and slang shaders, save states, rewind, cheats, level select and music player. Requires your own USA ROM._
+
 #### **PYTHON**
-- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 38000`)
+- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 38005`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
 - **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7432`)
@@ -39,24 +39,24 @@
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** (`★ 1508`)
+- **[jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm)** (`★ 1789`)
   _Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。_
 
-- **[hez2010/Cilica](https://github.com/hez2010/Cilica)** (`★ 138`)
+- **[hez2010/Cilica](https://github.com/hez2010/Cilica)** (`★ 141`)
   _Post-build IL optimizer and intermediate representation for .NET programs_
 
-- **[lvt1693/music-bar](https://github.com/lvt1693/music-bar)** (`★ 114`)
+- **[lvt1693/music-bar](https://github.com/lvt1693/music-bar)** (`★ 117`)
   _Turns the Windows taskbar into a music bar: a full-width seekbar in 14 styles that dances to the music, karaoke lyrics, Windows 11 transparency and a control center._
 
 ---
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia) &nbsp; `▲ 266 pts` &nbsp; `💬 191`
-- [Fold Epic Paper Airplanes](https://www.foldableflight.com) &nbsp; `▲ 273 pts` &nbsp; `💬 56`
-- [Children of Men: The Future Is a Mirror for the Present](https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/) &nbsp; `▲ 60 pts` &nbsp; `💬 36`
-- [Zebkit – Chromium as an embeddable library](https://github.com/ikey4u/zebkit) &nbsp; `▲ 19 pts` &nbsp; `💬 9`
-- [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway) &nbsp; `▲ 68 pts` &nbsp; `💬 13`
+- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) &nbsp; `▲ 917 pts` &nbsp; `💬 554`
+- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb) &nbsp; `▲ 444 pts` &nbsp; `💬 219`
+- [TPU 8tx and TPU 8i Max](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/) &nbsp; `▲ 188 pts` &nbsp; `💬 40`
+- [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/) &nbsp; `▲ 375 pts` &nbsp; `💬 94`
+- [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game) &nbsp; `▲ 83 pts` &nbsp; `💬 56`
 
 ---
 
