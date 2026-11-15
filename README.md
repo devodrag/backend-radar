@@ -9,17 +9,17 @@
 ### <code>( 01 ) // TRENDING REPOSITORIES</code>
 
 #### **GO**
-- **[HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)** (`★ 1219`)
+- **[HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs)** (`★ 1252`)
   _One self-hosted app for your shows, movies and music._
 
-- **[failsafe-security/artex](https://github.com/failsafe-security/artex)** (`★ 656`)
+- **[failsafe-security/artex](https://github.com/failsafe-security/artex)** (`★ 702`)
   _Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)_
 
-- **[egoist/tinytraffic](https://github.com/egoist/tinytraffic)** (`★ 234`)
-  _self-host web analytics in a single binary_
+- **[TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-)** (`★ 473`)
+  _Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) _
 
 #### **C++**
-- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** (`★ 1945`)
+- **[apex-compute/ANR](https://github.com/apex-compute/ANR)** (`★ 2172`)
   _Apex Neural Rendering (ANR) by Apex Compute_
 
 - **[ben-miller-23/dxo-photolab-10-desktop](https://github.com/ben-miller-23/dxo-photolab-10-desktop)** (`★ 362`)
@@ -32,17 +32,17 @@
 - **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 38046`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
-- **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7430`)
+- **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7429`)
   _Robyn is a Super Fast Async Python Web Framework with a Rust runtime._
 
-- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 4968`)
+- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 4965`)
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[krezio/roomy](https://github.com/krezio/roomy)** (`★ 177`)
+- **[krezio/roomy](https://github.com/krezio/roomy)** (`★ 231`)
   _Your C: drive is full. Let's fix that. See what's eating your space in plain English and clean the safe stuff in one click._
 
-- **[bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)** (`★ 98`)
+- **[bohuis686-creator/AstralCodex](https://github.com/bohuis686-creator/AstralCodex)** (`★ 100`)
   _星澜 · Anime startup animation for Codex on Windows. An open foundation for animated launchers for other apps._
 
 - **[localtonet/elio](https://github.com/localtonet/elio)** (`★ 85`)
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) &nbsp; `▲ 1352 pts` &nbsp; `💬 908`
-- [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775) &nbsp; `▲ 82 pts` &nbsp; `💬 51`
-- [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) &nbsp; `▲ 880 pts` &nbsp; `💬 338`
-- [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) &nbsp; `▲ 265 pts` &nbsp; `💬 98`
-- [Strictly monotonic timestamps and gapless sequences in Rust](https://tsoracle.rs/) &nbsp; `▲ 18 pts` &nbsp; `💬 1`
+- [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/) &nbsp; `▲ 38 pts` &nbsp; `💬 15`
+- [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8) &nbsp; `▲ 122 pts` &nbsp; `💬 31`
+- [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/) &nbsp; `▲ 58 pts` &nbsp; `💬 12`
+- ['Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html) &nbsp; `▲ 107 pts` &nbsp; `💬 82`
+- [The MacBook Pro's OLED PWM problem](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) &nbsp; `▲ 370 pts` &nbsp; `💬 198`
 
 ---
 
