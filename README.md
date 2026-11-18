@@ -19,44 +19,44 @@
   _Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) _
 
 #### **C++**
-- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** (`★ 3618`)
+- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** (`★ 3936`)
   _Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices._
 
-- **[pixl27/ProjectReLink](https://github.com/pixl27/ProjectReLink)** (`★ 446`)
+- **[pixl27/ProjectReLink](https://github.com/pixl27/ProjectReLink)** (`★ 457`)
   _Project ReLink - Zelda OOT Remake Recomp. An unofficial native PC recompilation of Ocarina of Time (the Switch 2 remake), built on your PC from your own copy._
 
-- **[brisk-thrush-husky/malware-defender-desktop](https://github.com/brisk-thrush-husky/malware-defender-desktop)** (`★ 416`)
+- **[brisk-thrush-husky/malware-defender-desktop](https://github.com/brisk-thrush-husky/malware-defender-desktop)** (`★ 364`)
   _Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11_
 
 #### **PYTHON**
-- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 38078`)
+- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 38084`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
 - **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7432`)
   _Robyn is a Super Fast Async Python Web Framework with a Rust runtime._
 
-- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 4964`)
+- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 4962`)
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[krezio/roomy](https://github.com/krezio/roomy)** (`★ 443`)
+- **[krezio/roomy](https://github.com/krezio/roomy)** (`★ 452`)
   _Your C: drive is full. Let's fix that. See what's eating your space in plain English and clean the safe stuff in one click._
 
-- **[alztrk/opentaskbar](https://github.com/alztrk/opentaskbar)** (`★ 157`)
+- **[alztrk/opentaskbar](https://github.com/alztrk/opentaskbar)** (`★ 158`)
   _Lightweight macOS-inspired floating dock and taskbar replacement for Windows 10 and 11_
 
-- **[DentistRoute/WInslop](https://github.com/DentistRoute/WInslop)** (`★ 153`)
-  _Take full control of Windows with Winslop — a modern WinUI 3 tweaking tool for customizing the interface, managing privacy, exploring hidden system settings, and fine-tuning Windows 10/11._
+- **[DillanCidral/Joule](https://github.com/DillanCidral/Joule)** (`★ 129`)
+  _Battery for your wireless mouse, headset, controller and keyboard, in the Windows tray. · Bateria do mouse, fone, controle e teclado sem fio, na bandeja do Windows._
 
 ---
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/) &nbsp; `▲ 171 pts` &nbsp; `💬 34`
-- [Can Peer Review Survive AI-Generated Text? [pdf]](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf) &nbsp; `▲ 41 pts` &nbsp; `💬 31`
-- ['Human' Is Cambridge Dictionary's Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026) &nbsp; `▲ 20 pts` &nbsp; `💬 3`
-- [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/) &nbsp; `▲ 197 pts` &nbsp; `💬 29`
-- [A Perfect SimCity](https://www.jeffquast.com/post/a-perfect-simcity/) &nbsp; `▲ 128 pts` &nbsp; `💬 38`
+- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) &nbsp; `▲ 1047 pts` &nbsp; `💬 480`
+- [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) &nbsp; `▲ 408 pts` &nbsp; `💬 284`
+- [Inside Deutsche Bank](https://www.inside-db.com/) &nbsp; `▲ 518 pts` &nbsp; `💬 182`
+- [DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1](https://www.radixark.com/blog/daisyrose-27b) &nbsp; `▲ 111 pts` &nbsp; `💬 28`
+- [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/) &nbsp; `▲ 315 pts` &nbsp; `💬 144`
 
 ---
 
