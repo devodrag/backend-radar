@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) BACKEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>RADAR // 2026-11-19</b></h1>
+  <h1><b>RADAR // 2026-11-20</b></h1>
   <p>Curated telemetry on distributed systems, high-concurrency tooling, and top engineering news.</p>
 </div>
 
@@ -19,17 +19,17 @@
   _Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) _
 
 #### **C++**
-- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** (`★ 4428`)
+- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** (`★ 4659`)
   _Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices._
 
-- **[pixl27/ProjectReLink](https://github.com/pixl27/ProjectReLink)** (`★ 475`)
-  _Project ReLink - Zelda OOT Remake Recomp. An unofficial native PC recompilation of Ocarina of Time (the Switch 2 remake), built on your PC from your own copy._
+- **[rolazd/xiaoai-doubao](https://github.com/rolazd/xiaoai-doubao)** (`★ 356`)
+  _把小爱音箱 Pro 改成孩子的英语玩伴：喊豆包豆包，用英语聊天，记得孩子_
 
-- **[ouncebrew/kaihen](https://github.com/ouncebrew/kaihen)** (`★ 362`)
-  _Homebrew enabler and minimal CFW for Switch 2_
+- **[brisk-thrush-husky/malware-defender-desktop](https://github.com/brisk-thrush-husky/malware-defender-desktop)** (`★ 308`)
+  _Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quarantine and removal, plus web shield that blocks phishing and malicious sites for Windows 11_
 
 #### **PYTHON**
-- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 38084`)
+- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 38085`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
 - **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7432`)
@@ -39,24 +39,24 @@
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[alztrk/opentaskbar](https://github.com/alztrk/opentaskbar)** (`★ 162`)
-  _Lightweight macOS-inspired floating dock and taskbar replacement for Windows 10 and 11_
-
-- **[Orbmu2k/NvidiaGsyncTweaks](https://github.com/Orbmu2k/NvidiaGsyncTweaks)** (`★ 112`)
+- **[Illson/RustText](https://github.com/Illson/RustText)** (`★ 404`)
   _No description provided._
 
-- **[DentistRoute/WInslop](https://github.com/DentistRoute/WInslop)** (`★ 76`)
-  _Take full control of Windows with Winslop — a modern WinUI 3 tweaking tool for customizing the interface, managing privacy, exploring hidden system settings, and fine-tuning Windows 10/11._
+- **[alztrk/opentaskbar](https://github.com/alztrk/opentaskbar)** (`★ 167`)
+  _Lightweight macOS-inspired floating dock and taskbar replacement for Windows 10 and 11_
+
+- **[Orbmu2k/NvidiaGsyncTweaks](https://github.com/Orbmu2k/NvidiaGsyncTweaks)** (`★ 126`)
+  _No description provided._
 
 ---
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/) &nbsp; `▲ 378 pts` &nbsp; `💬 180`
-- [PHP 8.5.13](https://www.php.net/ChangeLog-8.php) &nbsp; `▲ 50 pts` &nbsp; `💬 18`
-- [Garage Door Spam](https://blog.harrison.page/garage-door-spam/) &nbsp; `▲ 275 pts` &nbsp; `💬 109`
-- [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/) &nbsp; `▲ 64 pts` &nbsp; `💬 18`
-- [Show HN: Foolscap – a writing app that reads your book and never writes for you](https://foolscap.works/) &nbsp; `▲ 53 pts` &nbsp; `💬 24`
+- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) &nbsp; `▲ 837 pts` &nbsp; `💬 1612`
+- [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/) &nbsp; `▲ 490 pts` &nbsp; `💬 71`
+- [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21) &nbsp; `▲ 76 pts` &nbsp; `💬 37`
+- [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics) &nbsp; `▲ 349 pts` &nbsp; `💬 155`
+- [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/) &nbsp; `▲ 78 pts` &nbsp; `💬 14`
 
 ---
 
