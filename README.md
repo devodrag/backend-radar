@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) BACKEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>RADAR // 2026-11-21</b></h1>
+  <h1><b>RADAR // 2026-11-22</b></h1>
   <p>Curated telemetry on distributed systems, high-concurrency tooling, and top engineering news.</p>
 </div>
 
@@ -9,54 +9,54 @@
 ### <code>( 01 ) // TRENDING REPOSITORIES</code>
 
 #### **GO**
-- **[TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-)** (`★ 469`)
-  _Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) _
+- **[prusa3d/prusa-connect](https://github.com/prusa3d/prusa-connect)** (`★ 283`)
+  _Prusa Connect: a local server for your printers_
 
-- **[WerewolfEmuHub/Gemini-Config-Checker-](https://github.com/WerewolfEmuHub/Gemini-Config-Checker-)** (`★ 469`)
-  _Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) _
+- **[sabrinfathimaa-beep/dlss-5-swapper-compatibility](https://github.com/sabrinfathimaa-beep/dlss-5-swapper-compatibility)** (`★ 152`)
+  _Dlss 5 Swapper Compatibility streamlines replacing and managing DLSS version files._
 
-- **[Violetnyudress/Gemini-Config-Checker-](https://github.com/Violetnyudress/Gemini-Config-Checker-)** (`★ 469`)
-  _Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) _
+- **[piyushverse001/quantconnect-lean-selvon-research](https://github.com/piyushverse001/quantconnect-lean-selvon-research)** (`★ 150`)
+  _Quantconnect Lean Selvon Research: structured environment for strategy experiments and backtesting_
 
 #### **C++**
-- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** (`★ 5791`)
+- **[krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor)** (`★ 6016`)
   _Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices._
 
-- **[rolazd/xiaoai-doubao](https://github.com/rolazd/xiaoai-doubao)** (`★ 362`)
-  _把小爱音箱 Pro 改成孩子的英语玩伴：喊豆包豆包，用英语聊天，记得孩子_
+- **[ericmoorecode2001j6/monster-hunter-wilds-reframework-download](https://github.com/ericmoorecode2001j6/monster-hunter-wilds-reframework-download)** (`★ 330`)
+  _Monster Hunter Wilds REFramework + Monster HP Bar, Crown & DPS Overlay Mod [Direct Download] — Download prebuilt Windows 10/11 x64 release. Keywords: monster hunter wilds, mhwilds, monster hunter wilds mods, monster hunter wilds cheat, monster hunter wilds trainer, reframework, mhwilds save editor, mhwilds dps overlay._
 
-- **[cuesta4/GOW3rehooked](https://github.com/cuesta4/GOW3rehooked)** (`★ 220`)
-  _GOW3rehooked - the definitive GOW3 Remastered experience on PC. _
+- **[oscar-j-code1904n1/blox-fruits-script](https://github.com/oscar-j-code1904n1/blox-fruits-script)** (`★ 328`)
+  _Blox Fruits Script 2026 — Keyless Auto-Farm, Sea Events, Kitsune & Fruit Sniper — Download prebuilt Windows 10/11 x64 release. Keywords: blox fruits script, fisch script, rivals script, jujutsu infinite script, blue lock rivals script, da hood script, pet simulator 99 script, anime vanguards script._
 
 #### **PYTHON**
-- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 38100`)
+- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 38103`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
-- **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7433`)
+- **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7432`)
   _Robyn is a Super Fast Async Python Web Framework with a Rust runtime._
 
 - **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 4959`)
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[Illson/RustText](https://github.com/Illson/RustText)** (`★ 465`)
+- **[Illson/RustText](https://github.com/Illson/RustText)** (`★ 471`)
   _Portable Windows text editor with Sublime Text-style multi-cursor editing, regex find and replace, split views, and a live viewer for large log files._
 
-- **[alztrk/opentaskbar](https://github.com/alztrk/opentaskbar)** (`★ 220`)
-  _Lightweight macOS-inspired floating dock and taskbar replacement for Windows 10 and 11_
+- **[mark-j-ops2092d7/deep-live-cam-cuda-portable-portable](https://github.com/mark-j-ops2092d7/deep-live-cam-cuda-portable-portable)** (`★ 207`)
+  _Deep-Live-Cam v2.1 Portable (1-Click CUDA Installer) — Realtime Webcam FaceSwap for OBS/Discord (Portable Suite): native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release._
 
-- **[Orbmu2k/NvidiaGsyncTweaks](https://github.com/Orbmu2k/NvidiaGsyncTweaks)** (`★ 171`)
+- **[Orbmu2k/NvidiaGsyncTweaks](https://github.com/Orbmu2k/NvidiaGsyncTweaks)** (`★ 180`)
   _No description provided._
 
 ---
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) &nbsp; `▲ 348 pts` &nbsp; `💬 105`
-- [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) &nbsp; `▲ 291 pts` &nbsp; `💬 66`
-- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) &nbsp; `▲ 714 pts` &nbsp; `💬 565`
-- [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) &nbsp; `▲ 467 pts` &nbsp; `💬 307`
-- [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body) &nbsp; `▲ 84 pts` &nbsp; `💬 32`
+- [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) &nbsp; `▲ 724 pts` &nbsp; `💬 444`
+- [A real Linux kernel, compiled to WebAssembly](https://github.com/pithings/unkernel) &nbsp; `▲ 126 pts` &nbsp; `💬 43`
+- [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) &nbsp; `▲ 1141 pts` &nbsp; `💬 241`
+- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) &nbsp; `▲ 1101 pts` &nbsp; `💬 920`
+- [Self-hosted library branch over public web OPDS](https://joinmayberry.com/) &nbsp; `▲ 44 pts` &nbsp; `💬 9`
 
 ---
 
