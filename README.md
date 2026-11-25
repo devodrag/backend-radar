@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) BACKEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>RADAR // 2026-11-24</b></h1>
+  <h1><b>RADAR // 2026-11-25</b></h1>
   <p>Curated telemetry on distributed systems, high-concurrency tooling, and top engineering news.</p>
 </div>
 
@@ -9,54 +9,54 @@
 ### <code>( 01 ) // TRENDING REPOSITORIES</code>
 
 #### **GO**
-- **[txchen/govault](https://github.com/txchen/govault)** (`★ 191`)
+- **[kevinr-2752/PClabs](https://github.com/kevinr-2752/PClabs)** (`★ 193`)
+  _No description provided._
+
+- **[txchen/govault](https://github.com/txchen/govault)** (`★ 192`)
   _Fast, lightweight, zero-CGO native desktop client for Vaultwarden/Bitwarden in Go and NSGo_
 
-- **[geerlingguy/chronytop](https://github.com/geerlingguy/chronytop)** (`★ 154`)
-  _A TUI for chrony NTP time server monitoring_
-
-- **[jasonxu114514/aws-quickwork-2api](https://github.com/jasonxu114514/aws-quickwork-2api)** (`★ 139`)
+- **[jasonxu114514/aws-quickwork-2api](https://github.com/jasonxu114514/aws-quickwork-2api)** (`★ 143`)
   _ QuickWork / Amazon Quick → OpenAI API  把 Amazon Quick（QuickWork）桌面端的聊天能力转换成 **OpenAI 兼容的 HTTP API**。  项目是单一 Go 可执行文件：原生 OAuth 登录、账号存储、token 刷新和反代全部由 Go 完成，不需要 Python，也不用启动官方桌面应用或 outpost 进程。登录后由反代把 `/v1/chat/completions` 请求转换为 QuickWork WebSocket 帧，并把结果转回普通 JSON 或 SSE。_
 
 #### **C++**
-- **[ItsNotRexed/Hookshot](https://github.com/ItsNotRexed/Hookshot)** (`★ 689`)
+- **[ItsNotRexed/Hookshot](https://github.com/ItsNotRexed/Hookshot)** (`★ 707`)
   _Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake_
 
-- **[chanke17/KuroCat](https://github.com/chanke17/KuroCat)** (`★ 357`)
+- **[kai415-debug/ffmpeg-video-audio-converter](https://github.com/kai415-debug/ffmpeg-video-audio-converter)** (`★ 612`)
+  _Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding._
+
+- **[chanke17/KuroCat](https://github.com/chanke17/KuroCat)** (`★ 402`)
   _🐱 Native macOS & Windows desktop cat pet with full-state keyboard/mouse capture (typing & gaming), 2.5D head tracking, hunting boba eyes, and Black/Siamese skins_
 
-- **[Freminet/ScarlettX](https://github.com/Freminet/ScarlettX)** (`★ 253`)
-  _Experimental, clean-room Xbox Series X|S (Scarlett) HLE and compatibility layer for Windows x64._
-
 #### **PYTHON**
-- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 38118`)
+- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 38122`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
 - **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7433`)
   _Robyn is a Super Fast Async Python Web Framework with a Rust runtime._
 
-- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 4957`)
+- **[Fractal-Compute-Orchestrations/FractalCore](https://github.com/Fractal-Compute-Orchestrations/FractalCore)** (`★ 4956`)
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[Orbmu2k/NvidiaGsyncTweaks](https://github.com/Orbmu2k/NvidiaGsyncTweaks)** (`★ 197`)
-  _No description provided._
+- **[rowanbyte3329/stardew-valley-mod-manager](https://github.com/rowanbyte3329/stardew-valley-mod-manager)** (`★ 629`)
+  _Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates, and custom mod profiles._
 
-- **[799953468/cloudreve-mac](https://github.com/799953468/cloudreve-mac)** (`★ 159`)
-  _No description provided._
+- **[Umbra9179/clipboard-history-manager-windows](https://github.com/Umbra9179/clipboard-history-manager-windows)** (`★ 617`)
+  _Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup._
 
-- **[ThatRecompDev/five-star-recomp](https://github.com/ThatRecompDev/five-star-recomp)** (`★ 117`)
-  _Pre-work for a PC port of the Xbox Series GTA VI release: formats, shader translation and an offline console runtime_
+- **[olive527/steam-library-manager-windows](https://github.com/olive527/steam-library-manager-windows)** (`★ 613`)
+  _Free Windows game library manager and backup tool for Steam, Origin and Ubisoft Connect with multi-library support._
 
 ---
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign) &nbsp; `▲ 28 pts` &nbsp; `💬 5`
-- [Tidal Bans AI-Generated Music](https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/) &nbsp; `▲ 112 pts` &nbsp; `💬 73`
-- [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early) &nbsp; `▲ 723 pts` &nbsp; `💬 268`
-- [Jetty Pro](http://hypercritical.co/2026/11/23/jetty-pro) &nbsp; `▲ 15 pts` &nbsp; `💬 0`
-- [LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/) &nbsp; `▲ 578 pts` &nbsp; `💬 242`
+- [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b) &nbsp; `▲ 337 pts` &nbsp; `💬 113`
+- [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) &nbsp; `▲ 167 pts` &nbsp; `💬 37`
+- [Here in the World: Letters of Albert Camus, 1944–1959](https://literaryreview.co.uk/here-in-the-world) &nbsp; `▲ 15 pts` &nbsp; `💬 0`
+- [PenGPT: A Generative Transformer for Handwriting and Sketches](https://greydanus.github.io/2026/11/12/pengpt/) &nbsp; `▲ 12 pts` &nbsp; `💬 1`
+- [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign) &nbsp; `▲ 264 pts` &nbsp; `💬 127`
 
 ---
 
