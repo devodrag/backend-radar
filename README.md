@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) BACKEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>RADAR // 2026-11-26</b></h1>
+  <h1><b>RADAR // 2026-11-27</b></h1>
   <p>Curated telemetry on distributed systems, high-concurrency tooling, and top engineering news.</p>
 </div>
 
@@ -9,27 +9,27 @@
 ### <code>( 01 ) // TRENDING REPOSITORIES</code>
 
 #### **GO**
-- **[txchen/govault](https://github.com/txchen/govault)** (`★ 204`)
-  _Fast, lightweight, zero-CGO native desktop client for Vaultwarden/Bitwarden in Go and NSGo_
-
-- **[jasonxu114514/aws-quickwork-2api](https://github.com/jasonxu114514/aws-quickwork-2api)** (`★ 155`)
+- **[jasonxu114514/aws-quickwork-2api](https://github.com/jasonxu114514/aws-quickwork-2api)** (`★ 157`)
   _ QuickWork / Amazon Quick → OpenAI API  把 Amazon Quick（QuickWork）桌面端的聊天能力转换成 **OpenAI 兼容的 HTTP API**。  项目是单一 Go 可执行文件：原生 OAuth 登录、账号存储、token 刷新和反代全部由 Go 完成，不需要 Python，也不用启动官方桌面应用或 outpost 进程。登录后由反代把 `/v1/chat/completions` 请求转换为 QuickWork WebSocket 帧，并把结果转回普通 JSON 或 SSE。_
 
-- **[madrays/trackferry](https://github.com/madrays/trackferry)** (`★ 104`)
+- **[madrays/trackferry](https://github.com/madrays/trackferry)** (`★ 105`)
   _小爱点歌，飞牛曲库优先_
+
+- **[iximiuz/pathviz](https://github.com/iximiuz/pathviz)** (`★ 104`)
+  _A small packet path visualizer for Linux._
 
 #### **C++**
 - **[kai415-debug/ffmpeg-video-audio-converter](https://github.com/kai415-debug/ffmpeg-video-audio-converter)** (`★ 1020`)
   _Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding._
 
-- **[ItsNotRexed/Hookshot](https://github.com/ItsNotRexed/Hookshot)** (`★ 747`)
-  _Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake_
-
-- **[chanke17/KuroCat](https://github.com/chanke17/KuroCat)** (`★ 656`)
+- **[chanke17/KuroCat](https://github.com/chanke17/KuroCat)** (`★ 674`)
   _KuroCat — Free open-source native desktop cat pet & OBS overlay (Bongo Cat alternative, Swift/C++, 802 KB)｜开源免费原生桌面萌猫（全平台 macOS·Win·Linux·UOS / 2.5D转头捕猎 / 数位板 / OBS透明绿幕 / 在线皮肤工坊 / 零按键上传）_
 
+- **[boykopovar/AnyBox](https://github.com/boykopovar/AnyBox)** (`★ 381`)
+  _Compatibility layer for Xbox Series apps on Windows_
+
 #### **PYTHON**
-- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 38139`)
+- **[mouredev/Hello-Python](https://github.com/mouredev/Hello-Python)** (`★ 38142`)
   _Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA..._
 
 - **[sparckles/Robyn](https://github.com/sparckles/Robyn)** (`★ 7432`)
@@ -39,7 +39,7 @@
   _The central nervous system and backend orchestrator for Fractal. It handles multi-tenant task scheduling, real-time TFLOPs budgeting, and federated weight aggregation using FedAvg._
 
 #### **C# / .NET**
-- **[Umbra9179/clipboard-history-manager-windows](https://github.com/Umbra9179/clipboard-history-manager-windows)** (`★ 1263`)
+- **[Umbra9179/clipboard-history-manager-windows](https://github.com/Umbra9179/clipboard-history-manager-windows)** (`★ 1264`)
   _Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup._
 
 - **[olive527/steam-library-manager-windows](https://github.com/olive527/steam-library-manager-windows)** (`★ 719`)
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // ENGINEERING NEWS & DISCUSSIONS</code>
 
-- [Euro-Office comes to your desktop with the Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/) &nbsp; `▲ 275 pts` &nbsp; `💬 110`
-- [Intel One Mono font](https://github.com/intel/intel-one-mono) &nbsp; `▲ 296 pts` &nbsp; `💬 179`
-- [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) &nbsp; `▲ 1816 pts` &nbsp; `💬 1658`
-- [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/) &nbsp; `▲ 43 pts` &nbsp; `💬 10`
-- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) &nbsp; `▲ 1576 pts` &nbsp; `💬 680`
+- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting) &nbsp; `▲ 285 pts` &nbsp; `💬 154`
+- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/) &nbsp; `▲ 226 pts` &nbsp; `💬 46`
+- [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) &nbsp; `▲ 260 pts` &nbsp; `💬 333`
+- [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp) &nbsp; `▲ 279 pts` &nbsp; `💬 70`
+- [CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) &nbsp; `▲ 208 pts` &nbsp; `💬 92`
 
 ---
 
